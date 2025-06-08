@@ -1,0 +1,65 @@
+2025-06-08 20:51:58,414 - ERROR - \u274c Failed to load banks.json: Expecting value: line 1 column 1 (char 0)
+2025-06-08 20:55:56,242 - INFO - \U0001f4c1 Successfully loaded bank config.
+2025-06-08 20:55:56,242 - INFO - \U0001f680 Starting scrape for Dashen Bank
+2025-06-08 20:55:56,242 - INFO - \U0001f504 Fetching reviews for Dashen Bank...
+2025-06-08 20:56:04,368 - INFO - \u2705 Saved 449 reviews to data/raw/Dashen_Bank/Dashen_Bank_reviews_20250608_205604.csv
+2025-06-08 21:01:16,103 - INFO - \U0001f4c1 Successfully loaded bank config.
+2025-06-08 21:01:16,104 - INFO - \U0001f680 Starting scrape for Dashen Bank
+2025-06-08 21:01:16,104 - INFO - \U0001f504 Fetching reviews for Dashen Bank...
+2025-06-08 21:01:20,763 - INFO - \u2705 Saved 449 reviews to data/raw/Dashen_Bank/Dashen_Bank_reviews_20250608_210120.csv
+2025-06-08 21:01:20,764 - INFO - \U0001f680 Starting scrape for Bank of Abyssinia
+2025-06-08 21:01:20,764 - INFO - \U0001f504 Fetching reviews for Bank of Abyssinia...
+2025-06-08 21:01:21,395 - INFO - \u2705 Saved 0 reviews to data/raw/Bank_of_Abyssinia/Bank_of_Abyssinia_reviews_20250608_210121.csv
+2025-06-08 21:01:21,396 - INFO - \U0001f680 Starting scrape for Commercial Bank of Ethiopia
+2025-06-08 21:01:21,396 - INFO - \U0001f504 Fetching reviews for Commercial Bank of Ethiopia...
+2025-06-08 21:01:23,862 - INFO - \u2705 Saved 0 reviews to data/raw/Commercial_Bank_of_Ethiopia/Commercial_Bank_of_Ethiopia_reviews_20250608_210123.csv
+2025-06-08 21:08:38,432 - INFO - \U0001f4c1 Successfully loaded bank config.
+2025-06-08 21:08:38,432 - INFO - \U0001f680 Starting scrape for Dashen Bank
+2025-06-08 21:08:38,432 - INFO - \U0001f504 Fetching reviews for Dashen Bank...
+2025-06-08 21:08:43,234 - ERROR - \u274c Error while scraping Dashen Bank: [Errno 2] No such file or directory: 'raw/Dashen_Bank_reviews_20250608_210843.csv'
+2025-06-08 21:08:43,234 - INFO - \U0001f680 Starting scrape for Bank of Abyssinia
+2025-06-08 21:08:43,235 - INFO - \U0001f504 Fetching reviews for Bank of Abyssinia...
+2025-06-08 21:08:43,839 - ERROR - \u274c Error while scraping Bank of Abyssinia: [Errno 2] No such file or directory: 'raw/Bank_of_Abyssinia_reviews_20250608_210843.csv'
+2025-06-08 21:08:43,839 - INFO - \U0001f680 Starting scrape for Commercial Bank of Ethiopia
+2025-06-08 21:08:43,840 - INFO - \U0001f504 Fetching reviews for Commercial Bank of Ethiopia...
+2025-06-08 21:08:44,357 - ERROR - \u274c Error while scraping Commercial Bank of Ethiopia: [Errno 2] No such file or directory: 'raw/Commercial_Bank_of_Ethiopia_reviews_20250608_210844.csv'
+2025-06-08 21:09:42,091 - INFO - \U0001f4c1 Successfully loaded bank config.
+2025-06-08 21:09:42,092 - INFO - \U0001f680 Starting scrape for Dashen Bank
+2025-06-08 21:09:42,092 - INFO - \U0001f504 Fetching reviews for Dashen Bank...
+2025-06-08 21:09:43,626 - INFO - \u2705 Saved 449 reviews to data/raw/Dashen_Bank/Dashen_Bank_reviews_20250608_210943.csv
+2025-06-08 21:09:43,626 - INFO - \U0001f680 Starting scrape for Bank of Abyssinia
+2025-06-08 21:09:43,626 - INFO - \U0001f504 Fetching reviews for Bank of Abyssinia...
+2025-06-08 21:09:44,107 - INFO - \u2705 Saved 0 reviews to data/raw/Bank_of_Abyssinia/Bank_of_Abyssinia_reviews_20250608_210944.csv
+2025-06-08 21:09:44,108 - INFO - \U0001f680 Starting scrape for Commercial Bank of Ethiopia
+2025-06-08 21:09:44,108 - INFO - \U0001f504 Fetching reviews for Commercial Bank of Ethiopia...
+2025-06-08 21:09:44,666 - INFO - \u2705 Saved 0 reviews to data/raw/Commercial_Bank_of_Ethiopia/Commercial_Bank_of_Ethiopia_reviews_20250608_210944.csv
+2025-06-08 21:10:18,242 - INFO - \U0001f4c1 Successfully loaded bank config.
+2025-06-08 21:10:18,242 - INFO - \U0001f680 Starting scrape for Dashen Bank
+2025-06-08 21:10:18,243 - INFO - \U0001f504 Fetching reviews for Dashen Bank...
+2025-06-08 21:10:19,670 - INFO - \u2705 Saved 449 reviews to data/raw/Dashen_Bank/Dashen_Bank_reviews_20250608_211019.csv
+2025-06-08 21:10:19,670 - INFO - \U0001f680 Starting scrape for Bank of Abyssinia
+2025-06-08 21:10:19,671 - INFO - \U0001f504 Fetching reviews for Bank of Abyssinia...
+2025-06-08 21:10:20,992 - INFO - \u2705 Saved 500 reviews to data/raw/Bank_of_Abyssinia/Bank_of_Abyssinia_reviews_20250608_211020.csv
+2025-06-08 21:10:20,992 - INFO - \U0001f680 Starting scrape for Commercial Bank of Ethiopia
+2025-06-08 21:10:20,992 - INFO - \U0001f504 Fetching reviews for Commercial Bank of Ethiopia...
+2025-06-08 21:10:22,508 - INFO - \u2705 Saved 500 reviews to data/raw/Commercial_Bank_of_Ethiopia/Commercial_Bank_of_Ethiopia_reviews_20250608_211022.csv
+2025-06-08 21:15:29,485 - INFO - \U0001f4c1 Successfully loaded bank config.
+2025-06-08 21:15:29,485 - INFO - \U0001f680 Starting scrape for Dashen Bank
+2025-06-08 21:15:29,485 - INFO - \U0001f504 Fetching reviews for Dashen Bank...
+2025-06-08 21:15:30,988 - INFO - \u2705 Saved 449 reviews to data/raw/Dashen_Bank_reviews_20250608_211530.csv
+2025-06-08 21:15:30,989 - INFO - \U0001f680 Starting scrape for Bank of Abyssinia
+2025-06-08 21:15:30,989 - INFO - \U0001f504 Fetching reviews for Bank of Abyssinia...
+2025-06-08 21:15:32,363 - INFO - \u2705 Saved 500 reviews to data/raw/Bank_of_Abyssinia_reviews_20250608_211532.csv
+2025-06-08 21:15:32,363 - INFO - \U0001f680 Starting scrape for Commercial Bank of Ethiopia
+2025-06-08 21:15:32,363 - INFO - \U0001f504 Fetching reviews for Commercial Bank of Ethiopia...
+2025-06-08 21:15:33,967 - INFO - \u2705 Saved 500 reviews to data/raw/Commercial_Bank_of_Ethiopia_reviews_20250608_211533.csv
+2025-06-08 21:27:34,634 - INFO - \U0001f4c1 Successfully loaded bank config.
+2025-06-08 21:27:34,635 - INFO - \U0001f680 Starting scrape for Dashen Bank
+2025-06-08 21:27:34,635 - INFO - \U0001f504 Fetching reviews for Dashen Bank...
+2025-06-08 21:27:39,285 - INFO - \u2705 Saved 449 reviews to data/raw/Dashen_Bank_reviews_20250608_212739.csv
+2025-06-08 21:27:39,285 - INFO - \U0001f680 Starting scrape for Bank of Abyssinia
+2025-06-08 21:27:39,285 - INFO - \U0001f504 Fetching reviews for Bank of Abyssinia...
+2025-06-08 21:27:46,894 - INFO - \u2705 Saved 500 reviews to data/raw/Bank_of_Abyssinia_reviews_20250608_212746.csv
+2025-06-08 21:27:46,894 - INFO - \U0001f680 Starting scrape for Commercial Bank of Ethiopia
+2025-06-08 21:27:46,894 - INFO - \U0001f504 Fetching reviews for Commercial Bank of Ethiopia...
+2025-06-08 21:27:49,449 - INFO - \u2705 Saved 500 reviews to data/raw/Commercial_Bank_of_Ethiopia_reviews_20250608_212749.csv
